@@ -5,6 +5,7 @@ Great question. You're looking at a [hill climbing](https://en.wikipedia.org/wik
 # Contributors #
 
 [Jake Ballinger](http://ballingerj.github.io/)
+
 1. History.java
 2. Item.java
 3. Knapsack.java
@@ -13,6 +14,7 @@ Great question. You're looking at a [hill climbing](https://en.wikipedia.org/wik
 6. readVSC.java
 
 [Brian Rogers](brianjmrogers.github.io)
+
 1. csvDataParser.java
 2. HillClimbingClient.java
 3. HillClimbingServer.java
