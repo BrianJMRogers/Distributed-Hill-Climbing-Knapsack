@@ -11,7 +11,7 @@ Great question. You're looking at a [hill climbing](https://en.wikipedia.org/wik
 3. Knapsack.java
 4. Node.java
 5. Quick.java
-6. readVSC.java
+6. readCSV.java
 
 [Brian Rogers](brianjmrogers.github.io)
 
