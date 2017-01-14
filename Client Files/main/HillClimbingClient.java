@@ -10,8 +10,6 @@ import java.io.DataOutputStream;
 
 public class HillClimbingClient {
 
-	// This example is from: http://examples.javacodegeeks.com/core-java/net/multicastsocket-net/java-net-multicastsocket-example/
-
 	private static String INET_ADDR = "";// "224.0.0.35"; // specify what IP to be multicasting on
 	private static int PORT = 0;//12345; // specify port number
 
